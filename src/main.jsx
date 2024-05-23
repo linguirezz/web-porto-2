@@ -14,19 +14,19 @@ import './index.css'
 
 const router = createBrowserRouter([
   {
-    path:"/",
+    path:"/web-porto-2/",
     element:<Home></Home>,
   },
   {
-    path:'/project',
+    path:'/web-porto-2/project',
     element:<Project/>
   },
   {
-    path:'/about',
+    path:'/web-porto-2/about',
     element:<About/>
   },
   {
-    path:'/contact',
+    path:'/web-porto-2/contact',
     element:<Contact/>
   }
   
